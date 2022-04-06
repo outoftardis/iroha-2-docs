@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,d as a}from"./app.ced819ec.js";const m='{"title":"Conclusions","description":"","frontmatter":{},"headers":[],"relativePath":"guide/conclusions.md","lastUpdated":1649230251000}',r={},i=a("",7),s=[i];function n(l,c,d,p,h,u){return o(),t("div",null,s)}var g=e(r,[["render",n]]);export{m as __pageData,g as default};
